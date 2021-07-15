@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Student from "./Student";
+import Student from "./components/Student";
 import './App.css';
 
 const students = [
